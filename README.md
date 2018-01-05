@@ -1,9 +1,6 @@
 # React Routes Practice
 
-Now that we've got the handle of creating components, let's work on creating a more dynamic site where the user can navigate to different pages. For this we are going to use the **react-router-dom** package. 
-Go ahead and follow the instructions below.
-
-- Clone [THIS]() repository. It contains the necessary files to have a 4 page site.
+- Clone this repository. It contains the necessary files to have a 4 page site.
 
 -  Read the  [documentation](https://reacttraining.com/react-router/web/example/basic) for the _react-router-dom_ package.
 
